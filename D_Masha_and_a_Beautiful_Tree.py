@@ -1,0 +1,1 @@
+def mash_and_beautiful_tree(n, arr):
