@@ -1,0 +1,1 @@
+{"name":"Local: count_factors","url":"/home/abdu/Documents/A2SV contest Exercises/count_factors.py","tests":[{"id":1722587297513,"input":"3\n16\n17\n18","output":"5\n2\n6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/abdu/Documents/A2SV contest Exercises/count_factors.py","group":"local","local":true}

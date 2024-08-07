@@ -1,0 +1,1 @@
+{"name":"Local: exponentiation","url":"/home/abdu/Documents/A2SV contest Exercises/exponentiation.cpp","tests":[{"id":1722842893271,"input":"3\n3 4\n2 8\n123 123","output":"81\n256\n921450052"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/abdu/Documents/A2SV contest Exercises/exponentiation.cpp","group":"local","local":true}

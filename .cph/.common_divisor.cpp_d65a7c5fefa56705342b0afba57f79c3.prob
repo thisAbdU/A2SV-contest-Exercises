@@ -1,0 +1,1 @@
+{"name":"Local: common_divisor","url":"/home/abdu/Documents/A2SV contest Exercises/common_divisor.cpp","tests":[{"id":1722777959708,"input":"5\n3 14 15 7 9","output":"7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/abdu/Documents/A2SV contest Exercises/common_divisor.cpp","group":"local","local":true}

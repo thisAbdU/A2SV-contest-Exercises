@@ -1,0 +1,1 @@
+{"name":"Local: koko","url":"/home/abdu/Documents/A2SV contest Exercises/koko.py","tests":[{"id":1722858583914,"input":"2\n2 4\n3 5","output":"YES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/abdu/Documents/A2SV contest Exercises/koko.py","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: multiplication_2","url":"/home/abdu/Documents/A2SV contest Exercises/multiplication_2.cpp","tests":[{"id":1722671476628,"input":"2\n1000000000 1000000000","output":"1000000000000000000"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/abdu/Documents/A2SV contest Exercises/multiplication_2.cpp","group":"local","local":true}
