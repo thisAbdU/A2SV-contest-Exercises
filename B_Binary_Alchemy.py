@@ -1,0 +1,45 @@
+import sys
+from collections import Counter, defaultdict, deque
+from bisect import bisect_right, bisect_left
+from math import inf, ceil
+import math
+from heapq import *
+
+# Read a single integer input
+read_int = lambda: int(sys.stdin.readline().strip())
+
+# Read a list of integers from a single input line
+read_int_list = lambda: list(map(int, sys.stdin.readline().strip().split()))
+
+# Read a tuple of integers from a single input line
+read_int_tuple = lambda: tuple(map(int, sys.stdin.readline().strip().split()))
+
+# Read a list of strings from a single input line
+read_str_list = lambda: sys.stdin.readline().strip().split()
+
+# Read a list of integers, each digit as a separate element
+read_digit_list = lambda: list(map(int, sys.stdin.readline().strip()))
+
+# Read a list of characters from a single input line
+read_char_list = lambda: list(sys.stdin.readline().strip())
+
+# Read a single string input
+read_str = lambda: sys.stdin.readline().strip()
+
+# Check if a number is even
+is_even = lambda x: x & 1 == 0
+
+n = read_int()
+arr = []
+for _ in range(n):
+    inp = read_int_list()
+    arr.append(inp)
+
+i = 1
+for j in range(1, n + 1):
+    if i >= j:
+        i = arr[i-1][j-1]
+    else:
+        i = arr[j-1][i-1]
+
+print(i)

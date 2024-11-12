@@ -25,7 +25,7 @@ for _ in range(int(input())):
     not_primes = []
 
     for i in a:
-        if prime[i]:
+        if prime[i] or i == 1:
             cnt += 1
         else:
             not_primes.append(i)
@@ -35,7 +35,7 @@ for _ in range(int(input())):
         if prime[find_divisor(n)] and prime[n//find_divisor(n)]:
             not_primes.remove(n)
             cnt += 1
-        else:
+        elif prime[find_divisor(n)] or prime[n//find_divisor(n)]:
             ncnt += 1
 
     cnt += math.ceil(ncnt/2)

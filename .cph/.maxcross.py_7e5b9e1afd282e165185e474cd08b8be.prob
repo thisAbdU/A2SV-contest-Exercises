@@ -1,0 +1,1 @@
+{"name":"Local: maxcross","url":"/home/abdu/Documents/A2SV contest Exercises/maxcross.py","tests":[{"id":1724339271332,"input":"10 6 5\n2\n10\n1\n5\n9","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/abdu/Documents/A2SV contest Exercises/maxcross.py","group":"local","local":true}

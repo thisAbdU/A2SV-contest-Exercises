@@ -1,0 +1,1 @@
+{"name":"Local: div7","url":"/home/abdu/Documents/A2SV contest Exercises/div7.py","tests":[{"id":1724311269706,"input":"7\n3\n5\n1\n6\n2\n14\n10","output":"5"},{"id":1724311298429,"input":"1\n7","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/abdu/Documents/A2SV contest Exercises/div7.py","group":"local","local":true}

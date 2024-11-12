@@ -1,0 +1,1 @@
+{"name":"Local: subarraydivisibility","url":"/home/abdu/Documents/A2SV contest Exercises/subarraydivisibility.py","tests":[{"id":1724336182370,"input":"5\n3 1 2 7 4","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/abdu/Documents/A2SV contest Exercises/subarraydivisibility.py","group":"local","local":true}
